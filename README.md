@@ -1,1 +1,1 @@
-# JavaScript_stone-paper-scissor
+# JavaScript_stone-paper-scissor basic project .
