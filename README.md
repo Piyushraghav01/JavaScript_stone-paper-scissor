@@ -1,2 +1,2 @@
-# JavaScript_basic_stone-paper-scissor_project .
+# JavaScript_basic_stone-paper-scissor project .
 # my-new-branch .
